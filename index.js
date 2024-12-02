@@ -1,6 +1,6 @@
 // Dados das variáveis
-const temperaturas = [20, 22, 25, 28, 30, 32, 35, 37, 30, 25, 22, 20];
-const vendasSorvetes = [15, 16, 18, 20, 22, 24, 26, 28, 22, 18, 16, 15];
+const temperaturas = [20, 25, 30, 35, 40];
+const vendasSorvetes = [15,20, 25, 30,35];
 
 // Função para calcular a média
 function calcularMedia(arr) {
